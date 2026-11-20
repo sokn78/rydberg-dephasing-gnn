@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Tools and editors
+.ipynb_checkpoints/
+.ruff_cache/
+.pytest_cache/
+.claude/settings.local.json
+.DS_Store
